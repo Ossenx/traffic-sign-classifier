@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 data
 .ipynb_checkpoints
 *.h5
 models
 *.swp
-*.p
-=======
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -107,4 +104,3 @@ ENV/
 
 # mypy
 .mypy_cache/
->>>>>>> 6753f7297d2fe795fe2b38b5d377c0efdf146d25
